@@ -1,0 +1,8 @@
+#tarea litzi-torrico puntos a ignorar:
+/.idea/
+/.gradle/
+/build/
+/classes/
+/logs/
+/out/
+
