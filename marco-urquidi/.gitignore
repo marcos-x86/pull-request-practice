@@ -1,8 +1,0 @@
-# Ignorando las siguientes carpetas :
-
-/.gradle/
-/.idea/
-/build/
-/classes/
-/logs/
-/out/
