@@ -1,0 +1,6 @@
+.gradle
+.ide
+/build
+/classes
+/logs
+/out
