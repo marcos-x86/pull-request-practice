@@ -1,0 +1,7 @@
+# ignored folders by profesor Marco Lara
+.gradle/
+.idea/
+build/
+classes/
+logs/
+out/
