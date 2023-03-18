@@ -1,12 +1,4 @@
 <<<<<<< HEAD
-# Ignora las carpetas
-.gradle
-.idea
-build
-classes
-logs
-out
-=======
 # Ignora las carpetas:
 /.gradle/
 /.idea/
