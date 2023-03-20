@@ -1,7 +1,7 @@
-# Ignora las carpetas
-.gradle
-.idea
-build
-classes
-logs
-out
+/.gradle/
+/.idea/
+/build/
+/classes/
+/logs/
+/out/
+
