@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+# Ignora las carpetas:
+/.gradle/
+/.idea/
+/build/
+/classes/
+/logs/
+/out/
+>>>>>>> b553fc7d309ba01bef312926772753189f4500c9
